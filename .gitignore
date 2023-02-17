@@ -1,5 +1,5 @@
 # VSCode settings
-.vscode/
+*.vscode/
 
 # Compiled class file
 *.class
